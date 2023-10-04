@@ -1,0 +1,37 @@
+1-Acordar
+2-abrir os olhos
+3-desligar o despertador
+4-levantar
+5-sair do quarto
+6-se a porta estiver fechada:
+    1- segure a maçaneta
+    2- gire a maçaneta
+    3- puxe a porta
+    4- saia do quarto
+7-se a porta estiver aberta:
+    1-saia do quarto
+8-vá para o banheiro
+9-se a porta estiver fechada:
+    1- segure a maçaneta
+    2- gire a maçaneta
+    3- puxe a porta
+    4- entre no banheiro
+10-se a porta estiver aberta:
+    1-entre no banheiro
+11-lave o rosto
+12-escove os dentes
+13-faça suas necessidades
+14-lave as mãos
+15-saia do banheiro
+16-va para a cozinha
+17-se a porta estiver fechada:
+    1- segure a maçaneta
+    2- gire a maçaneta
+    3- puxe a porta
+    4- entre na cozinha
+18-se a porta estiver aberta:
+    1-entre na cozinha
+19-faça seu café 
+20-tome seu café
+21-lave a louça
+23-faça suas coisas do dia.
