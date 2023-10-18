@@ -73,6 +73,9 @@ public class App {
 
     private static void cadastrar(String dados) {
         String[] dadosSeparados = dados.split(",");
+        if (dadosSeparados.length<6){
+            JOptionPane.showMessageDialog(null, "Ficou faltando algum campo ", "Erro",JOptionPane.INFORMATION_MESSAGE);
+        }
         Cliente cliente = new Cliente(dadosSeparados[0],dadosSeparados[1],dadosSeparados[2],dadosSeparados[3],dadosSeparados[4],dadosSeparados[5]);
         Boolean isCadastrado = iClienteDAO.cadastrar(cliente);
         if (isCadastrado) {
