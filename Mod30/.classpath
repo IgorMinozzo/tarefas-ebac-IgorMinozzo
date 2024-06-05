@@ -7,7 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="src" path="src/test/java"/>
-	<classpathentry kind="lib" path="C:/Users/igoor/OneDrive/Área de Trabalho/porcaria/postgresql-42.7.3.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/igoor/OneDrive/Área de Trabalho/sts-4.22.1.RELEASE/plugins/postgresql-42.7.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

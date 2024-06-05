@@ -47,9 +47,10 @@ public class VendaDAOTest {
 	private Produto produto;
 	
 	public VendaDAOTest() {
-		vendaDao = new VendaDAO();
+		
 		clienteDao = new ClienteDAO();
 		produtoDao = new ProdutoDAO();
+		vendaDao = new VendaDAO();
 	}
 	
 	@Before
