@@ -1,0 +1,10 @@
+br/com/ebac/memelandia/meme/repositories/MemeRepository.class
+br/com/ebac/memelandia/meme/clients/CategoriaMemeClient$CategoriaMemeDto.class
+br/com/ebac/memelandia/meme/App.class
+br/com/ebac/memelandia/meme/controllers/MemeController.class
+br/com/ebac/memelandia/meme/entities/Meme.class
+br/com/ebac/memelandia/meme/clients/CategoriaMemeClient.class
+br/com/ebac/memelandia/meme/services/MemeService.class
+br/com/ebac/memelandia/meme/clients/UsuarioClient$UsuarioDto.class
+br/com/ebac/memelandia/meme/clients/UsuarioClient.class
+br/com/ebac/memelandia/meme/MemeServiceApplication.class

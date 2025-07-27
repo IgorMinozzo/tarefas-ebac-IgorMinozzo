@@ -1,0 +1,6 @@
+/home/ubuntu/workspace/usuario-service/src/main/java/br/com/ebac/memelandia/usuario/App.java
+/home/ubuntu/workspace/usuario-service/src/main/java/br/com/ebac/memelandia/usuario/services/UsuarioService.java
+/home/ubuntu/workspace/usuario-service/src/main/java/br/com/ebac/memelandia/usuario/UsuarioServiceApplication.java
+/home/ubuntu/workspace/usuario-service/src/main/java/br/com/ebac/memelandia/usuario/repositories/UsuarioRepository.java
+/home/ubuntu/workspace/usuario-service/src/main/java/br/com/ebac/memelandia/usuario/controllers/UsuarioController.java
+/home/ubuntu/workspace/usuario-service/src/main/java/br/com/ebac/memelandia/usuario/entities/Usuario.java

@@ -1,0 +1,7 @@
+/home/ubuntu/workspace/categoria-meme-service/src/main/java/br/com/ebac/memelandia/categoria/entities/CategoriaMeme.java
+/home/ubuntu/workspace/categoria-meme-service/src/main/java/br/com/ebac/memelandia/categoria/controllers/CategoriaMemeController.java
+/home/ubuntu/workspace/categoria-meme-service/src/main/java/br/com/ebac/memelandia/categoria/App.java
+/home/ubuntu/workspace/categoria-meme-service/src/main/java/br/com/ebac/memelandia/categoria/clients/UsuarioClient.java
+/home/ubuntu/workspace/categoria-meme-service/src/main/java/br/com/ebac/memelandia/categoria/repositories/CategoriaMemeRepository.java
+/home/ubuntu/workspace/categoria-meme-service/src/main/java/br/com/ebac/memelandia/categoria/services/CategoriaMemeService.java
+/home/ubuntu/workspace/categoria-meme-service/src/main/java/br/com/ebac/memelandia/categoria/CategoriaMemeServiceApplication.java

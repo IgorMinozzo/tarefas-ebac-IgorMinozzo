@@ -1,0 +1,6 @@
+br/com/ebac/memelandia/usuario/App.class
+br/com/ebac/memelandia/usuario/repositories/UsuarioRepository.class
+br/com/ebac/memelandia/usuario/services/UsuarioService.class
+br/com/ebac/memelandia/usuario/entities/Usuario.class
+br/com/ebac/memelandia/usuario/UsuarioServiceApplication.class
+br/com/ebac/memelandia/usuario/controllers/UsuarioController.class
